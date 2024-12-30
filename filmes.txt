@@ -1,0 +1,170 @@
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]AÇÃO[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Action-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Ação[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/x36sYeTy</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Animated-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Animação[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/fjzF90bH</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]AVENTURA[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Adventure-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Aventura[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/9CvRXhuP</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]CLÁSSICOS E COLEÇÕES[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/256x256/Film-Noir.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes Clássicos [/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/hZ7FPpmb</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]CRIME[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Crime-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Crime[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/qYmBqiJY</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]COMÉDIA E COMÉDIA ROMANTICA[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Comedy-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Comédia e Comédia Romantica[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/iK0kurb5</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]DRAMA[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Drama-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Drama[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/wtM4scuU</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]FANTASIA[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Fantasy-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Fantasia[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/ES46cCcr</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]FICÇÃO CIENTÍFICA[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Sci-Fi-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Ficção Científica[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/fm1jbxvV</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]HISTÓRIA[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Historic-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de História[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/mPJ2FYKG</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]CINEMA 2022[/COLOR][/B]</name>
+<thumbnail>https://ia601609.us.archive.org/1/items/adao-negro_202302/adao-negro.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de 2022[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/itjhJihL</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]LANÇAMENTOS 2023[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/marvel-2023-capa/marvel-2023-capa.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de 2023[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/w2QvWyL3</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]LANÇAMENTOS 2024[/COLOR][/B]</name>
+<thumbnail>https://i.ytimg.com/vi/Hrf0S5TNgJI/maxresdefault.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de 2024[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/0pUiKu6W</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]MISTÉRIO[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/movie-genres-folders-icons-by-guilherme-lima/png/256x256/Mystery.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Mistério[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/XV9QrR0q</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]SUSPENSE[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Thriller-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Suspense[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/W5nQuaxy</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]ROMANCE[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Romantic-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Romance[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/Nc3xvLwa</externallink>
+</item>
+<channels>
+</channels><channel>
+<item>
+<name>[B][COLOR white]TERROR[/COLOR][/B]</name>
+<thumbnail>https://files.softicons.com/download/folder-icons/free-movie-folder-icons-by-design-bolts/png/256x256/Horror-Movies.png</thumbnail>
+<fanart>https://i.pinimg.com/originals/60/9e/b8/609eb84a96ab833b47bf0c31a8f2b4eb.jpg</fanart>
+<info>[B]Os Melhores Filmes de Terror[/B]</info>  
+<genre></genre> 
+<externallink>https://pastebin.com/raw/hN8jRZEE</externallink>
+</item>
